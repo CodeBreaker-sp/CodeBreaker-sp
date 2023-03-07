@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @CodeBreaker-sp
+- 👋 Hi, I’m Surya Prakash
+- 👀 I’m good at Core Java , Advanced Java
 - 👀 I’m interested in coding, DSA problem solving , web development.
-- 🌱 I’m currently learning android development
+- 🌱 I’m currently learning Java Frameworks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at email: sps.7.it@gmail.com
 
