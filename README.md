@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Surya Prakash
-- 👀 I’m good at Core Java , Advanced Java
+- 👀 I’m good at Core Java , Advanced Java(J2EE)
 - 👀 I’m interested in coding, DSA problem solving , web development.
 - 🌱 I’m currently learning Java Frameworks
 - 💞️ I’m looking to collaborate on ...
