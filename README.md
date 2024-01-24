@@ -3,7 +3,7 @@
 - 👀 I’m interested in coding, DSA problem solving , web development.
 - 🌱 I’m currently learning Java Frameworks
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me at email: sps.7.it@gmail.com
+- 📫 How to reach me at email: pr.suryasingh@gmail.com
 
 <!---
 CodeBreaker-sp/CodeBreaker-sp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
